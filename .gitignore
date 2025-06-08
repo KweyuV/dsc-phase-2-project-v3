@@ -1,0 +1,9 @@
+# Ignore dataset folders and large files
+zippedData/
+*.db
+*.tsv
+*.csv
+*.zip
+*.gz
+*zippedData/IMDB
+*im.db
